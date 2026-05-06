@@ -1,0 +1,5 @@
+package com.idempotency.web.Entity;
+
+public class Car {
+
+}

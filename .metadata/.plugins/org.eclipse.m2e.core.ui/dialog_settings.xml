@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\SpringBootApp\gateway"/>
+			<item value="C:\Users\karan\Downloads\web"/>
+			<item value="C:\Users\karan\Downloads\RBA\RBA"/>
+			<item value="C:\Users\karan\Downloads\booking-system"/>
+			<item value="C:\Users\karan\Downloads\apollo\apollo"/>
+			<item value="C:\Users\karan\Downloads\delivery\delivery"/>
+			<item value="C:\Users\karan\Downloads\connectivity\connectivity"/>
+			<item value="C:\Users\karan\Downloads\first\first"/>
+			<item value="C:\Users\karan\Downloads\PaymentService\PaymentService"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
